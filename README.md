@@ -81,7 +81,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/juanandub/juanandub/output/snake.svg" alt="Snake animation" />
 
 ###
 
