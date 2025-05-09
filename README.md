@@ -75,7 +75,7 @@
 
 ###
 
-<h4 align="left">🌘 Passionate technologist, developer, and cybersecurity enthusiast.<br><br>🎓 Always looking to learn new things.<br><br>🌍 Based in Málaga<br><br>🚀Actually working in https://thallein.com as the Head of Back-End development</h4>
+<h4 align="left">🌘 Passionate technologist, developer, and cybersecurity enthusiast.<br><br>🎓 Always looking to learn new things.<br><br>🌍 Based in Málaga<br><br>🚀Actually working in https://thallein.com as CTO & the Head of Back-End development</h4>
 
 ###
 
