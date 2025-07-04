@@ -4,9 +4,9 @@
 
 ---
 
-<h1 align="center">👋 Hi, my name is Juanan</h1>
+<h1 align="left" style="font-size: 2.2em;">👋 Hi, my name is Juanan</h1>
 
-<div align="left">
+<div align="left" style="font-size: 1.1em;">
 
 💜 Passionate technologist, developer, and cybersecurity enthusiast  
 📍 Based in Málaga  
@@ -65,3 +65,4 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/juanandub/count.svg?" />
 </div>
+
