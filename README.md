@@ -1,17 +1,19 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhienBycm1hdHB0Zmc5dTlhNDRuaTJnZW81ZWk2MXpoaXlwbnp0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2ugQmi6mJOyiIwZtR/giphy.gif" width="300" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhienBycm1hdHB0Zmc5dTlhNDRuaTJnZW81ZWk2MXpoaXlwbnp0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T2ugQmi6mJOyiIwZtR/giphy.gif" width="450" />
 </div>
 
 ---
 
 <h1 align="center">👋 Hi, my name is Juanan</h1>
 
-<p align="center">
-  🌘 Passionate technologist, developer, and cybersecurity enthusiast <br/>
-  📍 Based in Málaga <br/>
-  🚀 CTO & Head of Back-End at <a href="https://thallein.com">Thallein</a> <br/>
-  🎓 Always learning new things
-</p>
+<div align="left">
+
+💜 Passionate technologist, developer, and cybersecurity enthusiast  
+📍 Based in Málaga  
+🚀 CTO & Head of Back-End at <a href="https://thallein.com">Thallein</a>  
+🎓 Always learning new things  
+
+</div>
 
 ---
 
