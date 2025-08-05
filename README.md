@@ -60,9 +60,3 @@
 
 ---
 
-### 👁️ Visitors
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/juanandub/count.svg?" />
-</div>
-
