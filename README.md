@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Juanan from Spain<br><br>- 🔭 I’m working as freelancer.<br>- 📚 I'm currently learning CyberSecurity and Game Dev.<br>- ⚡ In my free time I watch series, anime and films, play video games and read fantasy books.</p>
+<p align="left">I'm Juanan a backend dev from Spain<br><br>- 📚 I'm currently learning CyberSecurity and Game Dev.<br>- ⚡ In my free time I watch series, anime and films, play video games and read fantasy books.</p>
 
 ###
 
